@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧑‍💻 I am a full stack developer passionate about building amazing products
-- 🎸 Play guitar || lift 🏋️ when !coding
+- 🎸 Play guitar or lift 🏋️ when !coding
 <!--
 **hvats555/hvats555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
